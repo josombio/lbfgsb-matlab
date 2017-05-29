@@ -3,7 +3,7 @@ This is a temporary fork of Peter Carbonetto's [lbfgsb-matlab](https://github.co
  * b) Support for the version 3.0 of [L-BFGS-B](http://www.ece.northwestern.edu/~nocedal/lbfgsb.html). 
  * c) Support for the iprint option of the L-BFGS-B
 
-Features a and b have been already incorporated into the original project. 
+These features have been already merged into the original project. 
 
 The following is the original README with installation instructions and a brief tutorial. 
 ___
